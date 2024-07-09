@@ -4,6 +4,7 @@ import com.ls.ticket.TicketThread;
 
 /**
  * 三个窗口买1000张票
+ * synchronized 锁的使用
  * 同步方法
  */
 public class MyRunnable implements Runnable {

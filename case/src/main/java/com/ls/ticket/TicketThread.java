@@ -2,6 +2,7 @@ package com.ls.ticket;
 
 /**
  * 三个窗口买100张，电影票
+ * synchronized 锁 同步代码块
  */
 public class TicketThread extends Thread {
 
