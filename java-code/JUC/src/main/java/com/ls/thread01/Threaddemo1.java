@@ -1,4 +1,4 @@
-package com.ls.juc;
+package com.ls.thread01;
 
 /**
  * 创建线程的第二种方式
